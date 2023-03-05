@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/01.Scenes/07.Check3DSound.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
